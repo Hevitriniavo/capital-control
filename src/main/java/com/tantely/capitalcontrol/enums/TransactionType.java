@@ -1,2 +1,7 @@
-package com.tantely.capitalcontrol.enums;public class TransactionType {
+package com.tantely.capitalcontrol.enums;
+
+public enum TransactionType {
+    CREDIT,
+    DEBIT,
+    TRANSFER
 }
